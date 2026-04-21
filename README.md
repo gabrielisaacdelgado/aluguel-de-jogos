@@ -9,6 +9,6 @@ O projeto trabalha com manipulação do DOM 🎯, onde conseguimos recuperar ele
 - Visual Studio Code - Editor de código
 - Git & GitHub - Controle de versão
 
-💻 Link da para a visualização da aplicação:
+💻 Link da para a visualização da aplicação: https://gabrielisaacdelgado.github.io/aluguel-de-jogos/
 
 <img width="1920" height="1080" alt="{3006B59B-5664-45CB-BE53-894CAEEE381C}" src="https://github.com/user-attachments/assets/c37eecb5-ee82-4cb4-871e-6f5f665be163" />
